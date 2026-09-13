@@ -1,31 +1,186 @@
-[![MasterHead](https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif)]
-<h1 align="center">Hi 👋, I'm AMAN</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amansingh1201&label=Profile%20views&color=0e75b6&style=flat" alt="amansingh1201" /> </p>
+# AMAN
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### Software Engineer · AI Builder · Competitive Programmer
 
-- 🌱 I’m currently learning **React Native, MERN STACK**
+`IIT KGP`
 
-- 💬 Ask me about **React.Js,Full Stack**
+<br>
 
-- 📫 How to reach me **kramanpat8986@gmail.com**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+intelligent+systems;Exploring+LLMs+%26+Generative+AI;Solving+hard+problems;Turning+ideas+into+software)](https://git.io/typing-svg)
 
-- ⚡ Fun fact **Jack of all trades, Master of none!**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/http://linkedin.com/in/aman-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/aman-profile" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/amansingh_1201?utm_source=qr&igshid=mznlngnkzwq4mg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/amansingh_1201?utm_source=qr&igshid=mznlngnkzwq4mg%3d%3d" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amansingh1201&show_icons=true&locale=en&layout=compact" alt="amansingh1201" /></p>
+Building software, exploring intelligent systems, and pushing the limits of what I can create.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amansingh1201&show_icons=true&locale=en" alt="amansingh1201" /></p>
+**Full-stack engineering · LLMs · Generative AI · Algorithms · Scalable systems**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansingh1201&" alt="amansingh1201" /></p>
+</div>
+
+<br>
+
+---
+
+## CURRENTLY
+
+<table>
+<tr>
+<td width="50%">
+
+**→ Full-Stack Engineering**  
+**→ LLMs**  
+**→ Generative AI**
+
+</td>
+<td width="50%">
+
+**→ Machine Learning**  
+**→ Algorithms & Competitive Programming**  
+**→ Research-driven development**
+
+</td>
+</tr>
+</table>
+
+---
+
+## STACK
+
+### Languages
+![Languages](https://skillicons.dev/icons?i=cpp,python,js,ts,java)
+
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)
+
+### Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
+
+### Data
+![Data](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma)
+
+### AI / Intelligence
+`LLMs` · `Generative AI` · `Gemini API` · `Machine Learning` · `OCR`
+
+### Cloud / DevOps
+![Cloud](https://skillicons.dev/icons?i=aws,docker,git,github,linux)
+
+### Tools
+`Firebase` · `Inngest` · `NeonDB` · `Shadcn UI` · `REST APIs` · `CI/CD`
+
+---
+
+## SELECTED WORK
+
+### PMSSS Scholarship Portal
+AICTE scholarship platform built for scalable student verification and workflow automation.  
+`Node.js` `MySQL` `Aadhaar e-KYC` `DigiLocker` `Twilio`
+
+### HirePrep AI
+AI-powered career coaching platform combining personalized guidance with intelligent generation.  
+`Next.js` `NeonDB` `Prisma` `Gemini API`
+
+### eVault
+Secure legal-record platform exploring blockchain, encrypted storage and decentralized document management.  
+`Blockchain` `IPFS` `Encryption` `KYC`
+
+### Multilingual Offensive Speech Detection
+NLP system for detecting offensive language across English and Hindi text.  
+`Python` `NLP` `Naive Bayes` `TF-IDF`
+
+---
+
+## CODING
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### LEETCODE
+**Guardian**
+
+`Peak Rating · 2252`
+
+</td>
+<td align="center" width="50%">
+
+### CODEFORCES
+**Expert**
+
+`Peak Rating · 1784`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## GITHUB
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amansingh1201&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=amansingh1201&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B5CF6&fire=58A6FF&currStreakLabel=8B5CF6" width="49%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amansingh1201&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=58A6FF&area=true&hide_border=true)](https://github.com/amansingh1201)
+
+</div>
+
+---
+
+## MINDSET
+
+<div align="center">
+
+`LIMITLESS CURIOSITY`
+
+### BUILD. BREAK. LEARN. REPEAT.
+
+</div>
+
+---
+
+## CONNECT
+
+<div align="center">
+
+<a href="https://github.com/amansingh1201">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/aman-singh/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+&nbsp;
+<a href="https://x.com/YOUR_HANDLE">
+<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Building quietly. Thinking deeply. Shipping continuously.
+
+</div>

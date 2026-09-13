@@ -1,276 +1,219 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090D,50:17112D,100:08090D&height=210&section=header&text=AMAN&fontSize=64&fontColor=F5F7FA&fontAlignY=39&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20Competitive%20Programmer&descAlignY=60&descSize=15&descColor=A78BFA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B1035,100:0D1117&height=200&section=header&text=AMAN&fontSize=58&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Software%20Engineer%20·%20AI%20Builder%20·%20Competitive%20Programmer&descAlignY=62&descSize=16&descColor=A78BFA" width="100%" />
+
+`IIT KGP`
 
 <br>
 
-<sub><b>IIT KGP</b></sub>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=520&lines=Building+intelligent+systems;Exploring+LLMs+%26+Generative+AI;Solving+hard+problems;Turning+ideas+into+software)](https://git.io/typing-svg)
 
-<br><br>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=850&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+intelligent+systems;Exploring+LLMs+%26+Generative+AI;Solving+hard+problems;Turning+ideas+into+software" />
-</a>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:08090D,50:7C3AED,100:08090D&height=2&section=header" width="42%"/>
-
-<br><br>
-
-<strong>I build systems, not just software.</strong><br> <span>Reason through the hard parts. Build with intent. Ship what matters.</span>
-
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B5CF6,100:0D1117&height=2&section=header" width="60%" />
 
 </div>
 
----
+<br>
 
 <div align="center">
-<sub><b>FOCUS</b></sub>
+
+I build systems, not just software — reasoning through the hard parts, then shipping.
+
 </div>
 
-<br>
+<br><br>
+
+<div align="center">
+<sub><b>CURRENTLY</b></sub>
+</div>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**01**   Full-Stack Engineering
-**02**   LLMs
-**03**   Generative AI
+`01` &nbsp; Full-Stack Engineering
+`02` &nbsp; LLMs
+`03` &nbsp; Generative AI
 
 </td>
 <td width="50%" valign="top">
 
-**04**   Machine Learning
-**05**   Algorithms
-**06**   Research-driven Development
+`04` &nbsp; Machine Learning
+`05` &nbsp; Algorithms
+`06` &nbsp; Research-driven Development
 
 </td>
 </tr>
 </table>
 
-<br>
-
 <div align="center">
-<sub>Curiosity at the edge of software, intelligence and systems.</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:0D1117&height=1&section=header" width="100%" />
 </div>
 
 <br>
 
----
-
-<div align="center">
-<sub><b>STACK</b></sub>
-</div>
-
+<div align="center"><sub><b>STACK</b></sub></div>
 <br>
 
 <div align="center">
 
 **Languages**
-`C++` · `Python` · `JavaScript` · `TypeScript` · `Java`
-
 <br>
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=8B5CF6)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=58A6FF)
+![JS](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=8B5CF6)
+![TS](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=58A6FF)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=8B5CF6)
 
 **Frontend**
-`React` · `Next.js` · `Tailwind CSS`
-
 <br>
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=58A6FF)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=E5E5E5)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=8B5CF6)
 
 **Backend**
-`Node.js` · `Express` · `REST APIs`
-
 <br>
+![Node](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=58A6FF)
+![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=E5E5E5)
 
 **Data**
-`MongoDB` · `MySQL` · `PostgreSQL` · `NeonDB` · `Prisma`
-
 <br>
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=58A6FF)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=8B5CF6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=58A6FF)
+![NeonDB](https://img.shields.io/badge/NeonDB-0D1117?style=flat-square&logo=neon&logoColor=8B5CF6)
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=E5E5E5)
 
 **AI / Intelligence**
-`LLMs` · `Generative AI` · `Gemini API` · `Machine Learning` · `OCR`
-
 <br>
+`LLMs` `Generative AI` `Gemini API` `Machine Learning` `OCR`
 
 **Cloud / DevOps**
-`AWS` · `Docker` · `Git` · `GitHub` · `Linux` · `CI/CD`
-
 <br>
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=58A6FF)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=8B5CF6)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=58A6FF)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=E5E5E5)
 
 **Tools**
-`Firebase` · `Inngest` · `Shadcn UI`
+<br>
+`Firebase` `Inngest` `Shadcn UI` `REST APIs` `CI/CD`
 
 </div>
 
 <br>
 
----
-
-<div align="center">
-<sub><b>SELECTED WORK</b></sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B5CF6,100:0D1117&height=1&section=header" width="100%" />
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center"><sub><b>SELECTED WORK</b></sub></div>
+<br>
 
-### PMSSS Scholarship Portal
+**PMSSS Scholarship Portal**
+Scalable scholarship infrastructure with identity verification, workflow automation and notifications.
+<br>
+![Node.js](https://img.shields.io/badge/-Node.js-161B22?style=flat-square&labelColor=161B22&color=8B5CF6) ![MySQL](https://img.shields.io/badge/-MySQL-161B22?style=flat-square&labelColor=161B22&color=58A6FF) ![Aadhaar](https://img.shields.io/badge/-Aadhaar_e--KYC-161B22?style=flat-square&labelColor=161B22&color=8B5CF6) ![DigiLocker](https://img.shields.io/badge/-DigiLocker-161B22?style=flat-square&labelColor=161B22&color=58A6FF)
 
-Scalable scholarship infrastructure built around identity verification, workflow automation and notifications.
+<br>
 
-`Node.js` `MySQL` `Aadhaar e-KYC` `DigiLocker`
+**HirePrep AI**
+AI-powered career coaching platform for personalized interview and career guidance.
+<br>
+![Next.js](https://img.shields.io/badge/-Next.js-161B22?style=flat-square&labelColor=161B22&color=8B5CF6) ![NeonDB](https://img.shields.io/badge/-NeonDB-161B22?style=flat-square&labelColor=161B22&color=58A6FF) ![Prisma](https://img.shields.io/badge/-Prisma-161B22?style=flat-square&labelColor=161B22&color=8B5CF6) ![Gemini](https://img.shields.io/badge/-Gemini_API-161B22?style=flat-square&labelColor=161B22&color=58A6FF)
 
-</td>
+<br>
 
-<td width="50%" valign="top">
+**eVault**
+Secure legal-record platform combining decentralized storage, encryption and identity workflows.
+<br>
+![Blockchain](https://img.shields.io/badge/-Blockchain-161B22?style=flat-square&labelColor=161B22&color=8B5CF6) ![IPFS](https://img.shields.io/badge/-IPFS-161B22?style=flat-square&labelColor=161B22&color=58A6FF) ![Encryption](https://img.shields.io/badge/-Encryption-161B22?style=flat-square&labelColor=161B22&color=8B5CF6) ![KYC](https://img.shields.io/badge/-KYC-161B22?style=flat-square&labelColor=161B22&color=58A6FF)
 
-### HirePrep AI
+<br>
 
-AI-powered career coaching platform for personalized interview preparation and guidance.
-
-`Next.js` `NeonDB` `Prisma` `Gemini API`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### eVault
-
-Secure legal-record infrastructure combining decentralized storage, encryption and identity workflows.
-
-`Blockchain` `IPFS` `Encryption` `KYC`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Multilingual Speech Detection
-
+**Multilingual Offensive Speech Detection**
 NLP pipeline for offensive-language detection across multilingual text.
+<br>
+![Python](https://img.shields.io/badge/-Python-161B22?style=flat-square&labelColor=161B22&color=8B5CF6) ![NLP](https://img.shields.io/badge/-NLP-161B22?style=flat-square&labelColor=161B22&color=58A6FF) ![TF--IDF](https://img.shields.io/badge/-TF--IDF-161B22?style=flat-square&labelColor=161B22&color=8B5CF6) ![ML](https://img.shields.io/badge/-Machine_Learning-161B22?style=flat-square&labelColor=161B22&color=58A6FF)
 
-`Python` `NLP` `TF-IDF` `Machine Learning`
+<br>
 
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:0D1117&height=1&section=header" width="100%" />
 
+<br>
+
+<div align="center"><sub><b>CODING</b></sub></div>
 <br>
 
 <div align="center">
-<sub>Selected systems, not a complete archive.</sub>
-</div>
 
-<br>
-
----
-
-<div align="center">
-<sub><b>COMPETITIVE PROGRAMMING</b></sub>
-</div>
-
-<br>
-
-<table width="100%">
+<table>
 <tr>
-
 <td align="center" width="50%">
 
 **LEETCODE**
-
 <br>
-
-### Guardian
-
-`Peak Rating · 2252`
+![Guardian](https://img.shields.io/badge/Guardian-2252-8B5CF6?style=flat-square&labelColor=0D1117)
 
 </td>
-
 <td align="center" width="50%">
 
 **CODEFORCES**
-
 <br>
-
-### Expert
-
-`Peak Rating · 1784`
+![Expert](https://img.shields.io/badge/Expert-1784-58A6FF?style=flat-square&labelColor=0D1117)
 
 </td>
-
 </tr>
 </table>
 
-<br>
-
----
-
-<div align="center">
-<sub><b>GITHUB ACTIVITY</b></sub>
 </div>
 
 <br>
 
+<div align="center"><sub><b>GITHUB</b></sub></div>
+<br>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amansingh1201&show_icons=true&hide_border=true&bg_color=08090D&title_color=A78BFA&text_color=C9D1D9&icon_color=60A5FA&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amansingh1201&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com?user=amansingh1201&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B5CF6&fire=58A6FF&currStreakLabel=8B5CF6" width="49%" />
 
-<img src="https://streak-stats.demolab.com?user=amansingh1201&theme=github-dark-blue&hide_border=true&background=08090D&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA" width="48%"/>
+<br>
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amansingh1201&bg_color=08090D&color=C9D1D9&line=A78BFA&point=60A5FA&area=true&hide_border=true" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amansingh1201&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=58A6FF&area=true&hide_border=true" width="100%" />
 
 </div>
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B5CF6,100:0D1117&height=1&section=header" width="100%" />
+
+<br>
 
 <div align="center">
-
-<sub><b>MINDSET</b></sub>
-
-<br><br>
 
 `LIMITLESS CURIOSITY`
 
-### BUILD. BREAK. LEARN. REPEAT.
+**Build. Break. Learn. Repeat.**
 
 </div>
 
 <br>
 
----
+<div align="center"><sub><b>CONNECT</b></sub></div>
+<br>
 
 <div align="center">
-<sub><b>CONNECT</b></sub>
 
-<br><br>
-
-<a href="https://github.com/amansingh1201">
-<img src="https://img.shields.io/badge/GitHub-08090D?style=flat-square&logo=github&logoColor=F5F7FA"/>
-</a>
-&nbsp;
-<a href="mailto:kramanpat8986@gmail.com">
-<img src="https://img.shields.io/badge/Email-08090D?style=flat-square&logo=gmail&logoColor=A78BFA"/>
-</a>
-&nbsp;
-<a href="https://x.com/YOUR_X_HANDLE">
-<img src="https://img.shields.io/badge/X-08090D?style=flat-square&logo=x&logoColor=F5F7FA"/>
-</a>
-
-<br><br>
-
-<sub>Building quietly. Thinking deeply. Shipping continuously.</sub>
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=E5E5E5)](https://github.com/amansingh1201)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=8B5CF6)](mailto:kramanpat8986@gmail.com)
+[![X](https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=E5E5E5)](https://x.com/YOUR_X_HANDLE)
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090D,50:17112D,100:08090D&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B1035,100:0D1117&height=100&section=footer" width="100%" />
+
+<div align="center">
+<sub>Building quietly. Thinking deeply. Shipping continuously.</sub>
+</div>
